@@ -1,7 +1,7 @@
 ---
 layout: default
 date: 2015-12-21 23:26:12
-photo: 9.jpg
+photo: 10.png
 caption_header: Garage
 caption: One car detached garage.
 ---
