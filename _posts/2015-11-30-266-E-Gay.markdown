@@ -1,7 +1,7 @@
 ---
-sectionid: intro
-sectionclass: h1
-title: 266 East Gay St., Columbus, Ohio 43215
+layout: default
 number: 1100
+date: 2015-12-21 23:26:12
+title: 266 East Gay St., Columbus, Ohio 43215
+content: Welcome to 266 E. Gay St, a one bedroom, one bathroom detached garage unit in the heart of the Discovery District in Downtown Columbus.
 ---
-Welcome to 266 E. Gay St, a one bedroom, one bathroom detached garage unit in the heart of the Discovery District in Downtown Columbus.
