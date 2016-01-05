@@ -1,9 +1,7 @@
 ---
-sectionid: intro
-sectionclass: h1
-title: Columbus Urban Rentals
+layout: default
 number: 1000
+date: 2015-12-21 23:26:12
+caption_header: Columbus Urban Rentals
+caption: Welcome to Coumbus Urban Rentals! Check back often for newly available units in Columbus's Discovery District, Short North, Arena District and German Village.
 ---
-Welcome to Coumbus Urban Rentals! Check back often for newly available units in Columbus's Discovery District, Short North, Arena District and German Village.
-
-Available Units:
