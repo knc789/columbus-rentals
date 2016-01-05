@@ -5,7 +5,15 @@ layout: default
 	<header class="clearfix">
 		<h1>{{ site.name }}</h1>
 	</header>
-	<div id="grid-gallery" class="grid-gallery">
+{% assign posts = site.posts | sort: "number" %}
+	<div id="intro" class="intro">
+	
+	<section class="grid wrap">
+		{% for post in site.posts %}
+		{% endfor %}
+		</section>
+	</div>
+	<div id="photo-gallery" class="grid-gallery">
 
 	<section class="grid-wrap">
 	<ul class="grid">
